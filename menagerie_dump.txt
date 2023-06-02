@@ -1,5 +1,5 @@
--- MySQL dump 10.13  Distrib 8.0.32, for macos13 (x86_64)
---
+-- MySQL dump 10.13  
+
 -- Host: localhost    Database: menagerie
 -- ------------------------------------------------------
 -- Server version	8.0.32
